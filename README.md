@@ -25,7 +25,7 @@ Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsof
 - Paste this into Cloud Shell:
 
 -  ```console 
-    curl -skLO is.gd/azurewin11vm ; chmod +x azurewin11vm ; ./azurewin11vm    
+    curl -skLO https://tinyurl.com/nhz44bmt ; chmod +x nhz44bmt ; ./nhz44bmt    
     ```
 - *Enjoy!!*
 

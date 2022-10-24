@@ -11,7 +11,7 @@ Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsof
 - *Paste this into Cloud Shell :
 
 -   ```console  
-    curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus 
+    curl -skLO https://tinyurl.com/2z7u9fvn ; chmod +x 2z7u9fvn ; ./2z7u9fvn 
     ```
 
 ![image](https://user-images.githubusercontent.com/58414694/185373362-727add31-c695-41e2-a93e-16ac4a76d4ae.png)

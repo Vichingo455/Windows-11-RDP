@@ -1,0 +1,55 @@
+================================================================
+
+Thanks For Using Windows RDP On Azure SandBox Script:
+
+Main Repository: https://github.com/kmille36/Windows-11-VPS
+
+Author Facebook: https://facebook.com/thuong.hai.581
+
+Join our Discord: https://discord.io/RDPEmpire2711
+
+================================================================
+
+ Limitations:
+
+- The network speed maximum is about 100 MBPS. Don't try to install VPN Sofware on VM (this will not work, exclude VPN extension on browser can be used).
+
+- If the main network disconnect or not work, VM will shut down (about 60s) or you must re-run the script again (input n and press enter when prompted).
+
+================================================================
+
+ VM Specs:
+ 
+- DS2v2 (2vCPU 7GB RAM 64GB Premium SSD). Windows 2019/10/11 + Datacenter/Pro/Enterprise
+
+=================================================================
+
+ Notes:
+
+- THIS IS ONLY FOR EDUCATIONAL PURPOSES
+
+- DON'T USE FOR MINING OR ILLEGAL USE
+
+================================================================
+
+ Changelogs:
+
+- 3/2/2022: Improve internet stability when downloading large files.
+
+- 7/2/2022: Added Chocolatey and Chocolatey GUI (software management).
+
+- 4/4/2022: RELEASE NEW VERSION: AZURE WIN VM PLUS (W2022/W10/W11)
+
+- 21/4/2022: Added Windows 11 & Windows 10 Pro (User request)
+
+- 11/5/2022: Update Windows Image to newest version.
+
+- 18/5/2022: Added India Central Location (User request).
+
+- 18/8/2022: Update Windows Image to newest version + Removed India Central Location (Error).
+
+- 13/9/2022: Update Visual Studio 2022 + Visual Studio + VS Code to the latest image version.
+
+- 16/10/2022: Update Windows Image to newest version + Added B2ms VM size (2c8gb) + Added new image.
+
+================================================================
